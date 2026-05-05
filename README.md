@@ -30,7 +30,7 @@ ZHIHU_STATE_DIR=/path/to/local/private/state
 Requires Python 3.11+.
 
 ```bash
-git clone https://github.com/YOUR_NAME/zhihu-mcp.git
+git clone https://github.com/futurehafuture/zhihu-mcp.git
 cd zhihu-mcp
 uv sync
 uv run playwright install chromium
