@@ -1,5 +1,7 @@
 # Zhihu MCP
 
+[中文](README.zh-CN.md) | English
+
 An MCP server for searching Zhihu and retrieving question/article content.
 
 The server uses Playwright for browser-based login and page extraction, with
